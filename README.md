@@ -17,7 +17,7 @@ UB-Diff directly bridges the transition path between the user’s historical vis
 
 The overall framework of our proposed UB-Diff model is illustrated in **Figure 1**.
 <p align="center">
-<img align="middle" src="https://github.com/JKZuo/UB-Diff/blob/main/model.png" width="750"/>
+<img align="middle" src="https://github.com/JKZuo/UBDiff/blob/main/fig.png" width="750"/>
 </p>
 <p align = "center">
 <b>Figure 1. The overall framework of the proposed Unified Bridge-based Diffusion model (UB-Diff). </b> 
@@ -76,9 +76,3 @@ nohup python main.py --dataset LA  --gpu 0 > result_LA.log  2>&1 &
 ```
 
 We use an early stopping training mechanism, i.e., stop training after 10 epochs without valid improvement, max_epoch=100.
-
-## Results
-
-We have recorded the latest training log, which you can view them (result_IST.log, result_TKY.log, result_NYC.log, result_LA.log) in the file /UB-Diff/results/.
-
-- We are the first to introduce the Bridge-based generative diffusion model into the Next POI Recommendation. 
