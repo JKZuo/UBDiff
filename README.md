@@ -75,4 +75,4 @@ or
 nohup python main.py --dataset LA  --gpu 0 > result_LA.log  2>&1 &
 ```
 
-We use an early stopping training mechanism, i.e., stop training after 10 epochs without valid improvement, max_epoch=100.
+We employ an early stopping strategy during training, where the process is terminated if the performance on the validation set does not improve for 10 consecutive epochs, with the maximum number of training epochs set to 100.
