@@ -1,0 +1,5 @@
+numpy == 1.23.3
+pandas == 2.0.3
+torch == 1.12.1
+torchsde == 0.2.6
+torch_geometric == 2.3.1
