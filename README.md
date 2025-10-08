@@ -80,7 +80,7 @@ We employ an early stopping strategy during training, where the process is termi
 ## Cite
 If you feel that this work has been helpful for your research, please cite it as: 
 
-- J. Zuo, Z. Yao and Y. Zhang, "Bridging User Dynamic Preferences: A Unified Bridge-based Diffusion Model for Next POI Recommendation," in IEEE Transactions on Big Data, Early Access, doi: 10.1109/TBDATA.2025.3618453.
+- J. Zuo, Z. Yao and Y. Zhang, "Bridging User Dynamic Preferences: A Unified Bridge-based Diffusion Model for Next POI Recommendation," in IEEE Transactions on Big Data, Early Access, doi: https://doi.org/10.1109/TBDATA.2025.3618453.
 
 or
 
