@@ -76,3 +76,26 @@ nohup python main.py --dataset LA  --gpu 0 > result_LA.log  2>&1 &
 ```
 
 We employ an early stopping strategy during training, where the process is terminated if the performance on the validation set does not improve for 10 consecutive epochs, with the maximum number of training epochs set to 100.
+
+## Cite
+If you feel that this work has been helpful for your research, please cite it as: 
+
+- J. Zuo, Z. Yao and Y. Zhang, "Bridging User Dynamic Preferences: A Unified Bridge-based Diffusion Model for Next POI Recommendation," in IEEE Transactions on Big Data, Early Access, doi: 10.1109/TBDATA.2025.3618453.
+
+or
+
+```tex
+@ARTICLE{UB-Diff,
+  author={Zuo, Jiankai and Yao, Zihao and Zhang, Yaying},
+  journal={IEEE Transactions on Big Data}, 
+  title={Bridging User Dynamic Preferences: A Unified Bridge-based Diffusion Model for Next POI Recommendation}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-15},
+  keywords={POI recommendation;Diffusion model;Graph neural network;Self-attention;Location-based social networks},
+  doi={10.1109/TBDATA.2025.3618453}}
+
+```
+
+keywords: POI Recommendation; Diffusion Model; Graph Neural Network; Self-attention; Location-based Social Networks (LBSNs).
