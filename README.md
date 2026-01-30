@@ -80,7 +80,7 @@ We employ an early stopping strategy during training, where the process is termi
 ## Cite
 If you feel that this work has been helpful for your research, please cite it as: 
 
-- J. Zuo, Z. Yao and Y. Zhang, "Bridging User Dynamic Preferences: A Unified Bridge-based Diffusion Model for Next POI Recommendation," in IEEE Transactions on Big Data, Early Access, doi: https://doi.org/10.1109/TBDATA.2025.3618453.
+- J. Zuo, Z. Yao and Y. Zhang, "Bridging User Dynamic Preferences: A Unified Bridge-Based Diffusion Model for Next POI Recommendation," in IEEE Transactions on Big Data, vol. 12, no. 1, pp. 261-275, Feb. 2026, doi: https://doi.org/10.1109/TBDATA.2025.3618453.
 
 or
 
@@ -88,14 +88,13 @@ or
 @ARTICLE{UB-Diff,
   author={Zuo, Jiankai and Yao, Zihao and Zhang, Yaying},
   journal={IEEE Transactions on Big Data}, 
-  title={Bridging User Dynamic Preferences: A Unified Bridge-based Diffusion Model for Next POI Recommendation}, 
-  year={2025},
-  volume={},
-  number={},
-  pages={1-15},
-  keywords={POI recommendation;Diffusion model;Graph neural network;Self-attention;Location-based social networks},
-  doi={10.1109/TBDATA.2025.3618453}}
-
+  title={Bridging User Dynamic Preferences: A Unified Bridge-Based Diffusion Model for Next POI Recommendation}, 
+  year={2026},
+  volume={12},
+  number={1},
+  pages={261-275},
+  doi={10.1109/TBDATA.2025.3618453}
+}
 ```
 
 keywords: POI Recommendation; Diffusion Model; Graph Neural Network; Self-attention; Location-based Social Networks (LBSNs).
